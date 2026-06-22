@@ -133,11 +133,6 @@ Both modes run **simultaneously**. Whichever input fires first updates the LED, 
 - 🔌 **4-Channel Relay Module** — replace LEDs with real high-voltage appliance switching
 
 ---
-
-## 🎥 Demo
-
-📹 [Watch the full project walkthrough](#) <!-- ضيف لينك الفيديو هنا -->
-
 ## 📄 Documentation
 
 - [Project Presentation (PDF)](./Smart_Home_Presentation.pdf)
